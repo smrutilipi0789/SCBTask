@@ -1,10 +1,9 @@
 # SCBTask
-
 Screenshot  of movielist
-----------------------------------
-app/src/main/res/drawable/screenshot/Movielist.png
+<p align="center">
+  <img alt='Screenshot 1' src="assets/Movielist.png" width="40%"/>
+  <img alt='Screenshot 2' src="assets/DetailsPage.png" width="37.7%"/>
+  <br/>
+</p>
 
 
-Screenshot of details page
-----------------------------------
-app/src/main/res/drawable/screenshot/DetailsPage.png
