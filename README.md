@@ -2,9 +2,9 @@
 
 Screenshot  of movielist
 ----------------------------------
+app/src/main/res/drawable/screenshot/Movielist.png
 
-C:\Users\DELL\Desktop\SCB\SCBTask\app\src\main\res\drawable\screenshot\Movielist.png
 
 Screenshot of details page
 ----------------------------------
-C:\Users\DELL\Desktop\SCB\SCBTask\app\src\main\res\drawable\screenshot\DetailsPage.png
+app/src/main/res/drawable/screenshot/DetailsPage.png
